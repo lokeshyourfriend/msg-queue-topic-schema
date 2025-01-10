@@ -1,1 +1,1 @@
-# msg-queue-topic-schema
+# msg-queue-topic-schema-and-consumer-instance
